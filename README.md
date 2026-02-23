@@ -33,3 +33,12 @@ Built entirely in Microsoft Excel using structured tables, slicers, pivot tables
   - Gender wage growth comparison
 
 **Dashboard Preview**
+
+![Home](preview/Home.png)
+![Real Sector](preview/Real.png)
+![Monetary Sector](preview/Monetary.png)
+![Labour Sector](preview/Labour.png)
+![Inflation Sector](preview/Inflation.png)
+![External Sector](preview/External.png)
+![Fiscal Sector](preview/Fiscal.png)
+![Summary](preview/Summary.png)
