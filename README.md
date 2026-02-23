@@ -1,6 +1,7 @@
 **Latvia Macroeconomic Performance Dashboard (1999–2024)**
 
 **Overview**
+
 This project presents an interactive macroeconomic dashboard analysing 25 years of economic performance for Latvia.
 
 The objective of the dashboard is not only to visualise macroeconomic data, but to interpret trends, identify structural shifts, examine inter-sectoral linkages, and derive policy-relevant insights using macroeconomic reasoning.
@@ -8,6 +9,7 @@ The objective of the dashboard is not only to visualise macroeconomic data, but 
 The dashboard was developed entirely in Microsoft Excel and is fully interactive using slicers and structured data modelling.
 
 **Analytical Framework**
+
 The analysis evaluates Latvia’s macroeconomic performance across six major sectors:
   - Real Sector
   - Monetary Sector
@@ -18,6 +20,7 @@ The analysis evaluates Latvia’s macroeconomic performance across six major sec
 Rather than analysing variables in isolation, the dashboard examines relationships across sectors to assess overall macroeconomic stability and policy effectiveness.
 
 **Data Coverage**
+
 Period: 1999 – 2024
 Frequency: Annual data
 Sources: Official and credible macroeconomic databases (central bank, statistical offices, international institutions)
@@ -105,6 +108,7 @@ These linkages provide a broader assessment of macroeconomic stability rather th
   - Evidence-based policy reasoning
 
 **Author**
+
 Developed as part of a Macroeconomics academic project focused on macroeconomic performance analysis and interactive data visualisation.
 
 **Dashboard Preview**
