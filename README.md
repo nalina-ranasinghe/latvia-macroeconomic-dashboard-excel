@@ -104,21 +104,6 @@ These linkages provide a broader assessment of macroeconomic stability rather th
   - Identification of structural changes and turning points
   - Evidence-based policy reasoning
 
-**Repository Structure**
-
-Latvia-Macroeconomic-Dashboard-Excel/
-│
-├── dashboard/
-│   └── Latvia_Macroeconomic_Dashboard_1999_2024.xlsx
-│
-├── data/
-│   └── Cleaned_Macro_Data.xlsx
-│
-├── preview/
-│   └── (Dashboard screenshots)
-│
-└── README.md
-
 **Author**
 Developed as part of a Macroeconomics academic project focused on macroeconomic performance analysis and interactive data visualisation.
 
