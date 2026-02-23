@@ -80,6 +80,7 @@ Sources: Official and credible macroeconomic databases (central bank, statistica
   - Periods of exchange rate adjustments associated with shifts in trade performance.
 
 **Intersectoral Linkages**
+
 The dashboard highlights macroeconomic relationships including:
   - Economic contraction periods coinciding with rising unemployment and widening fiscal deficits.
   - Exchange rate movements interacting with trade balance dynamics.
