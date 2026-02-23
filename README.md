@@ -1,4 +1,5 @@
 **Latvia Macroeconomic Performance Dashboard (1999–2024)**
+
 **Overview**
 This project presents an interactive macroeconomic dashboard analysing 25 years of economic performance for Latvia.
 
