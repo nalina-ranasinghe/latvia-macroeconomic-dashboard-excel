@@ -1,112 +1,64 @@
-**Latvia Macroeconomic Performance Dashboard (1999–2024)**
+# 📊 Latvia Macroeconomic Performance Dashboard (1999–2024)
 
-**Overview**
+An interactive, production-grade macroeconomic analytics engine built entirely within Microsoft Excel. This dashboard models, visualizes, and interprets 25 years of structural shifts, policy adjustments, and cross-sectoral economic linkages for Latvia.
 
-This project presents an interactive macroeconomic dashboard analysing 25 years of economic performance for Latvia.
+Designed with an ultra-modern, dark-themed UI reminiscent of standalone Business Intelligence applications, this project demonstrates advanced data architecture, dynamic matrix formula design, and dashboard engineering without reliance on heavy VBA or external scripting.
 
-The objective of the dashboard is not only to visualise macroeconomic data, but to interpret trends, identify structural shifts, examine inter-sectoral linkages, and derive policy-relevant insights using macroeconomic reasoning.
+---
 
-The dashboard was developed entirely in Microsoft Excel and is fully interactive using slicers and structured data modelling.
+## 🚀 Key Capabilities Demonstrated
+*   **End-to-End Data Pipeline:** Transformed raw, fragmented yearly economic sector indicators into a unified tabular relational layout optimized for Excel's calculation engine.
+*   **Dynamic UI/UX Architecture:** Designed a neumorphic multi-page structure with fully reactive components, conditional glowing asset markers, and dynamic KPI metric blocks.
+*   **Macroeconomic Analysis:** Built custom analytical tracking for structural economic adjustments, showing turning points such as the 2008 global financial crisis and subsequent Eurozone convergence steps.
 
-**Analytical Framework**
+---
 
-The analysis evaluates Latvia’s macroeconomic performance across six major sectors:
-  - Real Sector
-  - Monetary Sector
-  - Inflation Dynamics
-  - Labour Market
-  - External Sector
-  - Fiscal Sector
-Rather than analysing variables in isolation, the dashboard examines relationships across sectors to assess overall macroeconomic stability and policy effectiveness.
+## 🛠️ Technical Stack & Excel Architecture
+*   **Dynamic Matrix Engineering:** Utilized non-volatile `INDEX / MATCH` array architectures to map year-based selector indexes across multiple sheets instantly.
+*   **Interactive Controls:** Implemented customized Excel Slicers styled to blend seamlessly into the dark interface, acting as global period filters.
+*   **Advanced Visual Topography:** Combined layered charts (Area, Line, Donut, and horizontal Trade Bar variations) with custom-rendered vector assets to maximize data ink ratio and clarity.
+*   **Clean Calculations Architecture:** Maintained strict isolation between the presentation layer, lookup matrix layers, and data tables to maximize processing speed.
 
-**Data Coverage**
+---
 
-Period: 1999 – 2024
-Frequency: Annual data
-Sources: Official and credible macroeconomic databases (central bank, statistical offices, international institutions)
+## 📈 Sectoral Analytics Breakdown
 
-**Tools & Technical Implementation**
-  - Microsoft Excel
-  - Structured Tables
-  - Pivot Tables
-  - Slicers for interactivity
-  - INDEX & MATCH dynamic formulas
-  - Derived indicators (Trade Balance, Fiscal Composition, etc.)
-  - Multi-sheet dashboard architecture
-  - Dark professional theme UI
-  - No external scripting or VBA was used. The dashboard is fully functional in standard Excel.
+### 1. Real Sector
+*   **Growth Metrics:** Tracks both Real GDP Growth and GDP Per Capita changes to measure underlying structural productivity.
+*   **Sector Composition:** Features real-time dynamic composition rendering across Agriculture, Industry, and Services sectors using a clean visual layout.
+*   **Consumption Dynamics:** Isolates private and public expenditure metrics to trace demand-driven growth components.
 
-**Sectoral Coverage**
-1. Real Sector
-  - Real GDP Growth
-  - GDP per Capita Growth
-  - Sectoral Composition (Agriculture, Industry, Services)
-  - Contribution of Consumption
+### 2. Monetary Sector
+*   **Rate Integration:** Compares central bank Policy Rates directly against Market Interest Rates within a singular frame to view monetary policy transmission efficiency.
+*   **Liquidity Tracking:** Maps broad Money Supply Growth alongside domestic Credit Expansion vectors to evaluate banking sector conditions.
 
-2. Monetary Sector
-  - Policy Interest Rate
-  - Market Interest Rate
-  - Money Supply Growth
-  - Credit Growth
+### 3. Inflation & Price Stability
+*   **CPI Variance:** Juxtaposes Core Inflation against Headline metrics to clearly highlight supply-side versus demand-driven price shifts.
+*   **Alternative Indexes:** Integrates specific Food/Non-Food variations and the Producer Price Index (PPI) to evaluate upstream market pressures.
 
-3. Inflation
-  - Headline Inflation
-  - Core Inflation
-  - Food vs Non-Food Inflation
-  - Producer Price Index (PPI)
+### 4. Labour Market
+*   **Demographic Tracking:** Tracks the aggregate Unemployment Rate alongside granular metrics like the Male vs. Female Labour Force Participation Rates (LFPR).
+*   **Compensation Trends:** Models comparative Male and Female Wage Growth variables to map structural income adjustments and gender wage gaps over time.
 
-4. Labour Market
-  - Unemployment Rate
-  - Labour Force Participation Rate
-  - Female Labour Force Participation
-  - Wage Growth Trends (Male vs Female)
+### 5. External Sector
+*   **Trade topographies:** Employs explicit Export vs. Import comparative bar configurations alongside a derived Trade Balance deficit visualizer.
+*   **Capital Flows:** Maps Foreign Direct Investment (FDI) inflows alongside local currency valuation patterns.
 
-5. External Sector
-  - Exports and Imports
-  - Trade Balance (Derived)
-  - Exchange Rate Movements
-  - Foreign Direct Investment (FDI)
+### 6. Fiscal Sector
+*   **Fiscal Balances:** Compares structural Government Revenue collections against primary Public Outlays.
+*   **Debt Sustainability:** Measures the expansion vector of total Public Debt against changing national Budget Deficits.
 
-6. Fiscal Sector
-  - Government Expenditure
-  - Budget Deficit
-  - Public Debt
-  - Taxation
+---
 
-**Key Turning Points Identified**
-  - 2008–2009: Severe contraction in real GDP with corresponding labour market deterioration and fiscal stress.
-  - Post-crisis recovery period marked by fiscal consolidation and external rebalancing.
-  - Inflation acceleration episodes accompanied by monetary tightening.
-  - Periods of exchange rate adjustments associated with shifts in trade performance.
+## 🔍 Macroeconomic Turning Points & Insights Modeled
 
-**Intersectoral Linkages**
+> ### 📉 The 2008–2009 Global Contraction
+> The metrics map a severe GDP contraction, showing immediate cascading impacts: sharp spikes in structural unemployment, sudden reductions in broad credit access, and countercyclical fiscal stresses resulting in expanding budget deficits.
 
-The dashboard highlights macroeconomic relationships including:
-  - Economic contraction periods coinciding with rising unemployment and widening fiscal deficits.
-  - Exchange rate movements interacting with trade balance dynamics.
-  - Inflation trends influencing monetary policy adjustments.
-  - Fiscal expansion contributing to rising public debt levels.
-These linkages provide a broader assessment of macroeconomic stability rather than isolated variable tracking.
+*   **Policy Countermeasures:** Evaluates the transition toward consolidation and external sector adjustments during the post-crisis stabilization window.
+*   **Supply Shock Modeling:** The 2022 inflation tracking models the significant supply-side consumer price shock driven by external energy spikes, illustrating subsequent monetary adjustments.
 
-**Policy-Relevant Insights**
-  - Fiscal policy appears countercyclical during downturns, reflected in deficit expansion.
-  - Monetary policy adjustments align with inflationary pressures.
-  - External sector resilience improves during exchange rate stabilization phases.
-  - Public debt dynamics highlight long-term sustainability considerations.
-
-**Dashboard Features**
-  - Year-based interactive slicer
-  - Multi-page structured layout
-  - KPI cards for selected-year analysis
-  - Sector-specific deep dives
-  - Clean and presentation-ready design
-
-**Learning Outcomes Demonstrated**
-  - Macroeconomic trend analysis
-  - Data visualisation and dashboard modelling
-  - Interpretation using macroeconomic theory
-  - Identification of structural changes and turning points
-  - Evidence-based policy reasoning
+---
 
 **Author**
 
