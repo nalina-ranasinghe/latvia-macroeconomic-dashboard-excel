@@ -60,9 +60,17 @@ Designed with an ultra-modern, dark-themed UI reminiscent of standalone Business
 
 ---
 
-**Author**
+## 🤝 Credits & Acknowledgements
+
+**UI/UX Design Inspiration**: The visual layout and neumorphic design template for this dashboard were sourced from *Excel Visual: How to Make a Personal Finance Dashboard in Excel for Expense Management*. My core contribution to this project was developing the underlying macroeconomic data models, building the dynamic matrix formulas (INDEX/MATCH architecture), and mapping the 25-year dataset to the visual components. You can find the original template tutorial here: [YouTube Link](https://youtu.be/Wxf5XmWi1M4?si=qZVBkY8UL2VAXyrO).
+
+---
+
+## 👤 Author
 
 Developed as part of a Macroeconomics academic project focused on macroeconomic performance analysis and interactive data visualisation.
+
+---
 
 **Dashboard Preview**
 
